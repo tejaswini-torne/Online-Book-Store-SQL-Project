@@ -48,6 +48,18 @@ The database is designed to manage book inventory, customer details, and purchas
 9) Calculate the stock remaining after fulfilling all orders:
  ---
  # Some Outputs:
+<kbd> <img width="763" height="234" alt="Image" src="https://github.com/user-attachments/assets/22d690de-261b-4179-ba27-ae6f387292fd" /> </kbd>
+<br><br><br>
+<kbd><img width="799" height="248" alt="Image" src="https://github.com/user-attachments/assets/d08b1da0-a023-4588-bb42-cec85e793ba9" /></kbd>
+<br><br><br>
+<kbd><img width="531" height="349" alt="Image" src="https://github.com/user-attachments/assets/8cb53a3d-1fda-43cf-8f2e-df1b9d521fc9" /></kbd>
+<br><br><br>
+<kbd><img width="862" height="326" alt="Image" src="https://github.com/user-attachments/assets/0d511112-b4b9-4956-b2ad-376240aafae7" /></kbd>
+<br><br><br>
+<kbd><img width="807" height="277" alt="Image" src="https://github.com/user-attachments/assets/7f21179d-be5e-45df-ae03-3b8b01919f9a" /></kbd>
+
+---
+ 
 
 
 
